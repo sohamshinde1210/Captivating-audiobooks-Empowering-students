@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "audiobooksproject",
+  "private_key_id": "566f700707127e27a7869518a7c5c4d19d7d039a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCishkJTSg8+ayJ\nKhmoBeztHhEz5591Ga8+iope0uLERdHchixe7/M1yVrctVU5q2y+CfBm05Mb/8EV\n4HLtEG40R9iQf8Szjkw7hh1+i0TUzqUgjkbS/pMcUcKPoYGhhAmnIoaH5Z2CXrXy\noYpsj39a1nv3VFfNcCXwuLWXRAv5ZYqGXuMipmmGayBptdKZL6Gir1EtuJuEyUWc\nt7KgryNJH6BkvlABKSjYVb8FiO04JhMahLFmGaGA/qAlbAsQA0jsUO0/qkKUwSy1\n1TIZ+SLX59VhpM2Ean/yQxcwChMyOgZHW46AeUPnTfb9My69UexDh1MMMAmn6hd+\nvUmHtYabAgMBAAECggEAAX0p2Z7Fdy5TYZQD4rBsuaeRZ6vhWDv1qfMNI42n6/Yr\nGqFQT8nwzNxXKEzyfXddc6JqllvD1jqBR+I/21gDgwcZzmFpjjbGH7Lc33i6AQXu\nF0a2vEeMGsSwnJpRP4kXyS6HQlCdURseXDgQKMYNdb6SKUP+RbasdPALzlPiAnfz\ntZd+LmjDE6/PLFBmYuaS2RlCUEGCYa5U6UhL+vp1mzQcdlQy+6cVnA1CTMVmBAOq\nN4TRe6WQLRw5GwGtRP3I2Ltrk44zoA56rFIwwjbvauXJ7gxDqc7Btfiaystm/X1Y\nqhsgyLBOxBU3w0VfXEG3yodnEoi1FhkjSsMF/AcFgQKBgQDTCl93nc+zEEC4WpLm\nZXRYgrprkr2vCeNsJxuWT19gk9wnwwXCo9psW4T32f1QgS/W7tZOk13vWsIcRTFn\nKLLPAKOJR0oucVk67rBOshmaqr83FV9OFHwpHqLJnaS4QOygF6QwhkNmyfWjZlk3\nMi76eM5BM3v9CS2R+uLIsyne2wKBgQDFWx4vboNhutWgW4f0qjezhNflZ10T27PW\nvHdTvjPSRbxKIxPswb9/vxgnfD7kMSUtx5i1I8QwqJqwincGFKKwJzFi6wUvm9iy\nyF1gvW8dLRtejTHCe58QG1FLa/PRlbLGPVrBRYexvOWQsLG9FuLq0iQ/dDEcKOzz\nTKX5jpQjQQKBgAh5uivLorPGS1McEBpAqNOFLId1dTi6ZO/LAkifF22Bgq32Hx0a\nB4OiiUyK7Kl3BrzTCrhNItCiDHmmLb2+3K+Djw3MVyZWVwcO3vXKIU0c3mEP8qvo\nFrRwDomaUyszME2dpXJtcfeG1N6jFaIp2cklYOMtdiVLYREjykfVKjFRAoGBAKP5\nlRbrx5WH2r8lzcxnMWii047zVs6NGNsuNCcMPZpT/qHKi1+Hi0jkyXjlLowCmVV0\nJVk7omKbdAuCwGn480NRDSOXCfQIlP/Wol8ihhPDyp3AyrtAY2TKjb0QsMBOlP9J\nMwKqdpgizsptRQBK57cbaqqeK7+t8VIlOTIkWMkBAoGBAMOHrmKOM72U2SIYAiKH\neUcueW5eKwB0CO8jjIycHJV5LUBucbv6FdF/6YUOu7GZ8RJdH2+5B+yz6QWzExSA\nNcLyzfm+6UoSlI7QIZXgSQARS77Tt8DdaJ6yCbwr6wa65aegOrMa0NtVALqjlMvN\nblpmMCb+VljVZTQw++YfzkNF\n-----END PRIVATE KEY-----\n",
+  "client_email": "audiobook@audiobooksproject.iam.gserviceaccount.com",
+  "client_id": "106071063473015669223",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audiobook%40audiobooksproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
